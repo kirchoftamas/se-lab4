@@ -1,0 +1,5 @@
+# Create a ship with only 1 in primary store
+GT4500,1,0,1,0
+TORPEDO,SINGLE # fire from primary
+TORPEDO,SINGLE # fire from secondary
+TORPEDO,SINGLE # should fail no more torpedo and we know it alternates

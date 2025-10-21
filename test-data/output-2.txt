@@ -1,0 +1,4 @@
+SUCCESS # GT4500
+SUCCESS # Fire SINGLE
+SUCCESS # fire single
+FAIL # fail bc empty
