@@ -1,0 +1,4 @@
+#Create a ship with 1 in secondary
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
