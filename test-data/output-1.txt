@@ -1,0 +1,3 @@
+SUCCESS # GT4500 created
+SUCCESS # fired all
+FAIL # single failed -> its empty
